@@ -27,7 +27,8 @@ The Rock Paper Scissors Game is a simple and interactive web-based game built us
 ## 🏗️ **PROJECT ARCHITECTURE**
 The project follows a client-side architecture where all logic and data handling are performed in the browser without any backend server.
 
-```USER INTERFACE (HTML + CSS)
+```
+USER INTERFACE (HTML + CSS)
 ↓
 JAVASCRIPT GAME LOGIC
 (RULES, SCORE CALCULATION)
@@ -65,7 +66,8 @@ BROWSER LOCAL STORAGE
 
 ## 📂 **File Structure**
 rock-paper-scissors/
-```│── rock.html
+```
+│── rock.html
 │── README.md
 ```
 
